@@ -1,11 +1,12 @@
 class Fixnum
 
   def fizz?
-    !fizzbuzz? && modulo(3).zero?
+    valueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee = 3
+    !fizzbuzz? && modulo(valueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee).zero?
   end
 
   def buzz?
-    !fizzbuzz? && modulo(5).zero?
+    return !fizzbuzz? && modulo(5).zero?
   end
 
   def fizzbuzz?
