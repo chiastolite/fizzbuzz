@@ -1,15 +1,15 @@
 class Fixnum
 
   def fizz?
-    !fizzbuzz? && modulo(3).zero?
+    false
   end
 
   def buzz?
-    !fizzbuzz? && modulo(5).zero?
+    false
   end
 
   def fizzbuzz?
-    modulo(15).zero?
+    false
   end
   
 end
