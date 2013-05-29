@@ -1,4 +1,4 @@
-# Fizzbuzz
+# Fizzbuzz [![Build Status](https://travis-ci.org/chiastolite/fizzbuzz.png?branch=master)](https://travis-ci.org/chiastolite/fizzbuzz) [![Coverage Status](https://coveralls.io/repos/chiastolite/fizzbuzz/badge.png?branch=master)](https://coveralls.io/r/chiastolite/fizzbuzz?branch=master) [![Code Climate](https://codeclimate.com/github/chiastolite/fizzbuzz.png)](https://codeclimate.com/github/chiastolite/fizzbuzz)
 
 TODO: Write a gem description
 
